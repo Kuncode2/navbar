@@ -1,0 +1,10 @@
+For your new repositries and first commit - 
+1. git init   - 
+2. git commit -m "first commit"
+3. git branch -M main
+4. git remote add origin https://github.com/Kuncode2/             Your repo name             .git
+5. git push -u origin main
+
+For adding changed code and files
+
+git init
